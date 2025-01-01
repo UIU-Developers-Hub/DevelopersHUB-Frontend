@@ -7,9 +7,7 @@ import Footer from "../Fixed_component/Footer";
 export default function Main_Layout() {
   return (
     <div>
-      <Navbar />
       <Outlet />
-      <Footer />
     </div>
   );
 }

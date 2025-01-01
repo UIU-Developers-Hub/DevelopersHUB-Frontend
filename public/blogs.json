@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "description": "Exploring the potential of AI in modern web development.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 120,
+    "downvotes": 5,
+    "discussions": 12,
+    "shares": 8,
+    "date": "12 January 2024"
+  },
+  {
+    "id": 2,
+    "user": "Jane Smith",
+    "description": "Blockchain and its role in securing digital transactions.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 95,
+    "downvotes": 3,
+    "discussions": 7,
+    "shares": 5,
+    "date": "15 January 2024"
+  },
+  {
+    "id": 3,
+    "user": "Alice Johnson",
+    "description": "The future of Quantum Computing in technology.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 150,
+    "downvotes": 4,
+    "discussions": 20,
+    "shares": 12,
+    "date": "18 January 2024"
+  },
+  {
+    "id": 4,
+    "user": "Bob Brown",
+    "description": "How cybersecurity is evolving to combat threats.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 80,
+    "downvotes": 6,
+    "discussions": 10,
+    "shares": 7,
+    "date": "20 January 2024"
+  },
+  {
+    "id": 5,
+    "user": "Clara White",
+    "description": "Green technologies for a sustainable future.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 110,
+    "downvotes": 2,
+    "discussions": 15,
+    "shares": 9,
+    "date": "22 January 2024"
+  },
+  {
+    "id": 6,
+    "user": "David Black",
+    "description": "Virtual reality and its applications in education.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 90,
+    "downvotes": 1,
+    "discussions": 8,
+    "shares": 6,
+    "date": "24 January 2024"
+  },
+  {
+    "id": 7,
+    "user": "Emily Green",
+    "description": "The rise of 5G technology and its implications.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 100,
+    "downvotes": 3,
+    "discussions": 11,
+    "shares": 10,
+    "date": "26 January 2024"
+  },
+  {
+    "id": 8,
+    "user": "Frank Gray",
+    "description": "How IoT is changing the way we live.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 85,
+    "downvotes": 4,
+    "discussions": 9,
+    "shares": 5,
+    "date": "28 January 2024"
+  },
+  {
+    "id": 9,
+    "user": "Grace Kelly",
+    "description": "Augmented reality in healthcare innovations.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 140,
+    "downvotes": 2,
+    "discussions": 18,
+    "shares": 11,
+    "date": "30 January 2024"
+  },
+  {
+    "id": 10,
+    "user": "Henry Gold",
+    "description": "The evolution of software engineering practices.",
+    "image": "https://via.placeholder.com/600x300",
+    "upvotes": 130,
+    "downvotes": 5,
+    "discussions": 14,
+    "shares": 10,
+    "date": "2 February 2024"
+  }
+]
